@@ -14,7 +14,7 @@ function setup() {
 
 function draw() {
 
-    background(220);
+    background(180, 220, 255);
 
     x += speedX;
     y += speedY;
